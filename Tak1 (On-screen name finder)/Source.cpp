@@ -4,7 +4,8 @@
 using namespace sf;
 using namespace std;
 
-// ศอั฿ ใำสุํแ แÛวํษ รใว ํแÞุ วำใ์ ฺแ์ วแิวิษ ๆ ฿ฯๅ ฿ำศส ... ๆใ฿วไ วแลำใ ฺแ์ วแิวิษ ฯๅ ศํูๅั ศิ฿แ ัวไฯใ ฿แ แใว ศฺใแ ัไ 
+// My I try to find my name on screen using the rectangle shape
+// the position of the name appears in random on each single run to add sense of complexity to the game
 
 
 int main() {
@@ -118,6 +119,6 @@ switch (e.type)
 // if (e.type == Event::Closed) win.close();
 	//if (e.mouseMove == Event::MouseButtonEvent) ;
 
-// ฯ์ ฺิวไ ํฮแํไ์ แใว รฮฯ วํÝํไส วแวํÝํไส ฯๅ ฺศวัษ ฺไ วไ์ รึÛุ ฺแ์ ฺแวใษ วแว฿ำ วแแ์ Ý์ วแๆํไฯๆ ศสวฺ์ ... Þแสแๅ แใว วึÛุ ฺแ์ วแว฿ำ ํÞๆใ ÞวÝแ วแๆํไฯๆ
+// รรฌ รร”รรค รญรรกรญรครฌ รกรฃร รรร รรญรรญรคร รรกรรญรรญรคร รรฅ รรรร‘ร รรค รรครฌ รร–รร รรกรฌ รรกรรฃร รรกรรร“ รรกรกรฌ รรฌ รรกรฆรญรครรฆ รรรรรฌ ... รรกรรกรฅ รกรฃร รร–รร รรกรฌ รรกรรร“ รญรรฆรฃ รรรรก รรกรฆรญรครรฆ
 
 //	}
